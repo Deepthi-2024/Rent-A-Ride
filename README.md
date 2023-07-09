@@ -1,5 +1,7 @@
 #Oops - Rent-A-Ride 
-a customer to Rent a Ride, you book a cab. We charge you as per the distance covered. We charge 8rs/km.
+
+
+A customer to Rent a Ride, you book a cab. We charge you as per the distance covered. We charge 8rs/km.
 The moment you click the button to RIDE, we search for the nearby drivers who will accept your ride.
 Suppose there are 15 drivers near your location, then we send the request to the first driver who is closest to you, then the second, and so on.
 There are a few conditions though, on the basis of which we cannot send the request to the nearby driver.
